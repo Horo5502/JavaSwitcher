@@ -1,5 +1,5 @@
 # JavaSwitcher
-JAVA_HOMEを自動で切り替えるやつ(動作超不安定)  
+JAVA_HOMEをコマンドのみで簡単に切り替えられるやつ(動作超不安定)  
 PowerShellで動いてるのでもちろんWindowsのみ動作
 
 まず、`JAVA_HOMES.txt`にjavaのバージョンとそのパスを紐づける  
