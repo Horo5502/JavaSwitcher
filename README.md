@@ -1,4 +1,9 @@
 # JavaSwitcher
+
+このリポジトリの内容は古いです! 最新版はGistにあります。
+https://gist.github.com/Horo5502/4e779c0f0ae2ac6e5103b5574b31be64
+
+
 JAVA_HOMEをコマンドのみで簡単に切り替えられるps1(動作超不安定)  
 PowerShellで動いてるのでWindowsでのみ動作
 
